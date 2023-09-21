@@ -9,7 +9,7 @@
 	url = git@gitlab.com:kicad/libraries/kicad-packages3D-generator.git
 [submodule "kicad-footprint-generator"]
 	path = kicad-footprint-generator
-	url = git@gitlab.com:kicad/libraries/kicad-footprint-generator.git
+	url = git@gitlab.com:navan93/libraries/kicad-footprint-generator.git
 [submodule "kicad-packages3D"]
 	path = kicad-packages3D
 	url = git@gitlab.com:navan93/kicad-packages3D.git
